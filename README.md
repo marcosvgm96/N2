@@ -2,11 +2,16 @@ Nome: Marcos Vinicius Guerreiro Machado
 
 Turma: ADS51
 
+
 -Abrir a pasta do arquivo no vscode
+
 -Digite "npm install" para baixar as dependencias: "npm install dotenv", "npm install express", "npm install mongoose", "npm install nodemon". 
+
 -Crie um cluster no MongoDB Atlas e conecte ele ao seu computador. 
+
 -Abra o postman e utilize a url "http://localhost:3000/" para realizar as requisições.
-Essas são as rotas do postman.
+
+-Essas são as rotas do postman.
 
 # GET
 
